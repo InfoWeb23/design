@@ -1,2 +1,2 @@
 # design
-Repositório de Design; 
+Repositório de design
